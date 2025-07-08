@@ -5,3 +5,4 @@
 Para ejecuatr el programa debes poenr:
 
 ```npm install react```
+Sistema de Registro 2 
